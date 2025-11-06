@@ -12,6 +12,7 @@ def bubble_sort(arr)
       break
     end  
   end
+  return arr
 end
 
 
