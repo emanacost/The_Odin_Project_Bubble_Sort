@@ -24,3 +24,5 @@ end
 puts bubble_sort([4,3,78,2,0,2]).join(",")
 
 puts bubble_sort([5, 4, 3, 2, 1]).join(",")
+
+puts bubble_sort([10,9,8,7,6,5,4,3,2,1]).join(",")
