@@ -10,7 +10,8 @@ def bubble_sort(arr)
     end
     if swapped = false
       break
-    end  
+    end
+    n += 1 
   end
   return arr
 end
